@@ -1,7 +1,6 @@
 # India Loan Eligibility Checker
 
 **Live Hatchable demo:** https://india-loan.hatchable.site  
-**Hatchable project console:** https://hatchable.com/console/projects/india-loan
 
 A portfolio prototype combining an experimental ML-style estimate with a separate bank-specific EMI calculator and affordability screen.
 
